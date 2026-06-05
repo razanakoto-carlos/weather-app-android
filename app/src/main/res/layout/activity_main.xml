@@ -27,7 +27,7 @@
         android:layout_marginTop="12dp"
         android:text="20°"
         android:textColor="#FFFFFF"
-        android:textSize="80sp"
+        android:textSize="60sp"
         app:layout_constraintEnd_toStartOf="@id/ivWeatherIcon"
         app:layout_constraintHorizontal_chainStyle="packed"
         app:layout_constraintStart_toStartOf="parent"
@@ -74,16 +74,15 @@
 
     <ImageView
         android:id="@+id/ivWeatherIcon"
-        android:layout_width="80dp"
-        android:layout_height="80dp"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
         android:layout_marginStart="16dp"
-        android:src="@android:drawable/ic_menu_report_image"
+        android:src="@drawable/ic_soleil"
         app:layout_constraintBottom_toBottomOf="@id/tvTemperature"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@id/tvTemperature"
         app:layout_constraintTop_toTopOf="@id/tvTemperature"
-        app:layout_constraintVertical_bias="0.615"
-        app:tint="#4AF2D4" />
+        app:layout_constraintVertical_bias="0.615"/>
 
     <LinearLayout
         android:id="@+id/llForecastContainer"
