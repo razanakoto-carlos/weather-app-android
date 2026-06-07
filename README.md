@@ -29,6 +29,7 @@
 
 ## 🏗️ Architecture du projet
 
+```
 mg.carlos.meteo/
 ├── MainActivity.java      # Écran principal (recherche + affichage)
 ├── ForecastAdapter.java   # Adapter pour la liste des prévisions
@@ -41,7 +42,7 @@ mg.carlos.meteo/
 └── layout/
 ├── activity_main.xml      # Layout de l'écran principal
 └── item_forecast_row.xml  # Layout d'une ligne de prévision
-
+```
 
 ---
 
