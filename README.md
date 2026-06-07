@@ -29,17 +29,18 @@
 
 ## 🏗️ Architecture du projet
 
-`mg.carlos.meteo/`
-│
-├── `MainActivity.java`       # Écran principal — recherche + affichage météo
-├── `ForecastAdapter.java`    # Adapter RecyclerView pour les prévisions 7 jours
-├── `ForecastDay.java`        # Modèle de données pour une ligne de prévision
-└── `res/`
-├── `layout/`
-│   ├── `activity_main.xml`        # Layout principal
-│   └── `item_forecast_row.xml`    # Layout d'une ligne de prévision
-└──├── `drawable/`
-   └── `ic_wi_*.xml`              # Icônes météo SVG (Weather Icons)
+mg.carlos.meteo/
+├── MainActivity.java      # Écran principal (recherche + affichage)
+├── ForecastAdapter.java   # Adapter pour la liste des prévisions
+├── ForecastDay.java       # Modèle de données pour une ligne de prévision
+└── res/
+├── anim/
+│   └── fade_in.xml    # Animation d'apparition
+├── drawable/
+│   └── ic_wi_*.xml    # Icônes météo SVG
+└── layout/
+├── activity_main.xml      # Layout de l'écran principal
+└── item_forecast_row.xml  # Layout d'une ligne de prévision
 
 
 ---
