@@ -134,7 +134,7 @@ dependencies {
 ## 👨‍💻 Auteur
 
 **Carlos** — Étudiant en Geniel Logiciel
-Projet réalisé avec Android Studio · Java · SQLite
+Projet réalisé avec Android Studio · Java
 
 ---
 
