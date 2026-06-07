@@ -3,9 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Learning/Programming-Courses/Android/Meteo/app/src/main/res/drawable/bg_card.xml" value="0.178" />
+        <entry key="..\:/Learning/Programming-Courses/Android/Meteo/app/src/main/res/drawable/bg_search.xml" value="0.178" />
         <entry key="..\:/Learning/Programming-Courses/Android/Meteo/app/src/main/res/drawable/ic_nuage.xml" value="0.1" />
         <entry key="..\:/Learning/Programming-Courses/Android/Meteo/app/src/main/res/drawable/ic_pluie.xml" value="0.1" />
-        <entry key="..\:/Learning/Programming-Courses/Android/Meteo/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Learning/Programming-Courses/Android/Meteo/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Learning/Programming-Courses/Android/Meteo/app/src/main/res/layout/item_forecast.xml" value="0.20416666666666666" />
+        <entry key="..\:/Learning/Programming-Courses/Android/Meteo/app/src/main/res/layout/item_forecast_row.xml" value="0.1" />
       </map>
     </option>
   </component>
